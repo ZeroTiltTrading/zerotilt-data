@@ -1,0 +1,24 @@
+{
+ "updated": "2026-11-03 13:48",
+ "live_since": "2026-11-01",
+ "through": "2026-11-02",
+ "stats": {
+  "closed": 1,
+  "sumR": -1.24,
+  "wins": 0,
+  "running": 0
+ },
+ "trades": [
+  {
+   "coin": "BTC",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-02 00:12",
+   "exit_time": "2026-11-02 00:38",
+   "entry": 78068.65,
+   "stop": 78263.83,
+   "R": -1.24,
+   "why": "SL"
+  }
+ ]
+}
