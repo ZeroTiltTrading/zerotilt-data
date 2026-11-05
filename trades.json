@@ -1,34 +1,56 @@
 {
- "updated": "2026-11-05 15:25",
+ "updated": "2026-11-05 16:41",
  "live_since": "2026-11-01",
  "through": "2026-11-04",
  "stats": {
-  "closed": 2,
-  "sumR": -2.27,
-  "wins": 0,
-  "running": 1
+  "closed": 4,
+  "sumR": -1.22,
+  "wins": 2,
+  "running": 2
  },
  "trades": [
   {
-   "coin": "BTC",
+   "coin": "XRP",
    "setup": "Structure",
    "dir": "Short",
-   "entry_time": "2026-11-02 00:12",
-   "exit_time": "2026-11-02 00:38",
-   "entry": 78068.65,
-   "stop": 78263.83,
-   "R": -1.24,
+   "entry_time": "2026-11-02 14:38",
+   "exit_time": "2026-11-03 13:15",
+   "entry": 1.2570000000000001,
+   "stop": 1.26576,
+   "R": 0.41,
+   "why": "Partial profit + SL"
+  },
+  {
+   "coin": "ETH",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-03 14:29",
+   "exit_time": "2026-11-04 09:15",
+   "entry": 2290.445,
+   "stop": 2323.0190000000002,
+   "R": 0.46,
+   "why": "Partial profit + SL"
+  },
+  {
+   "coin": "XRP",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-04 05:56",
+   "exit_time": "2026-11-04 11:34",
+   "entry": 1.27455,
+   "stop": 1.29489,
+   "R": -1.04,
    "why": "SL"
   },
   {
    "coin": "BTC",
    "setup": "Structure",
    "dir": "Short",
-   "entry_time": "2026-11-03 14:29",
+   "entry_time": "2026-11-04 06:50",
    "exit_time": "2026-11-04 15:41",
-   "entry": 77602.55,
-   "stop": 79103.69,
-   "R": -1.03,
+   "entry": 78128.25,
+   "stop": 78998.55,
+   "R": -1.05,
    "why": "SL"
   }
  ]
