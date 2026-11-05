@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-04 14:07",
+ "updated": "2026-11-05 15:25",
  "live_since": "2026-11-01",
- "through": "2026-11-03",
+ "through": "2026-11-04",
  "stats": {
-  "closed": 1,
-  "sumR": -1.24,
+  "closed": 2,
+  "sumR": -2.27,
   "wins": 0,
   "running": 1
  },
@@ -18,6 +18,17 @@
    "entry": 78068.65,
    "stop": 78263.83,
    "R": -1.24,
+   "why": "SL"
+  },
+  {
+   "coin": "BTC",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-03 14:29",
+   "exit_time": "2026-11-04 15:41",
+   "entry": 77602.55,
+   "stop": 79103.69,
+   "R": -1.03,
    "why": "SL"
   }
  ]
