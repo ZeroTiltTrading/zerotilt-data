@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07 12:18",
+ "updated": "2026-11-12 17:50",
  "live_since": "2026-11-01",
- "through": "2026-11-06",
+ "through": "2026-11-11",
  "stats": {
-  "closed": 7,
-  "sumR": 5.64,
+  "closed": 9,
+  "sumR": 3.56,
   "wins": 4,
-  "running": 0
+  "running": 2
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -69,7 +69,7 @@
    "entry_time": "2026-11-04 17:00",
    "exit_time": "2026-11-05 13:41",
    "entry": 2425.67,
-   "stop": 2387.913409568368,
+   "stop": 2387.9134063227066,
    "R": -1.04,
    "why": "SL",
    "ver": "v5.5",
@@ -100,6 +100,32 @@
    "why": "Target",
    "ver": "v5.5",
    "slot": 0
+  },
+  {
+   "coin": "ETH",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-10 17:00",
+   "exit_time": "2026-11-10 22:05",
+   "entry": 2022.36,
+   "stop": 2063.063149059078,
+   "R": -1.03,
+   "why": "SL",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
+   "coin": "BTC",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-10 17:00",
+   "exit_time": "2026-11-11 09:08",
+   "entry": 73180.1,
+   "stop": 74127.2054338109,
+   "R": -1.05,
+   "why": "SL",
+   "ver": "v6",
+   "slot": 1
   }
  ]
 }
