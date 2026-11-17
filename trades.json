@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17 10:30",
+ "updated": "2026-11-17 15:45",
  "live_since": "2026-11-01",
- "through": "2026-11-17 10:30",
+ "through": "2026-11-17 15:45",
  "stats": {
   "closed": 15,
   "sumR": 8.34,
   "wins": 7,
-  "running": 0
+  "running": 1
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
