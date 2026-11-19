@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18 18:45",
+ "updated": "2026-11-19 05:16",
  "live_since": "2026-11-01",
- "through": "2026-11-18 18:45",
+ "through": "2026-11-19 05:15",
  "stats": {
-  "closed": 17,
-  "sumR": 6.27,
+  "closed": 18,
+  "sumR": 5.22,
   "wins": 7,
-  "running": 3
+  "running": 2
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -215,6 +215,19 @@
    "stop": 1817.7952235757919,
    "R": -1.03,
    "why": "SL",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
+   "coin": "BTC",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-18 18:00",
+   "exit_time": "2026-11-19 05:06",
+   "entry": 62760.01,
+   "stop": 63559.42696067475,
+   "R": -1.05,
+   "why": "SL \u00b7 provisional",
    "ver": "v6",
    "slot": 1
   },
