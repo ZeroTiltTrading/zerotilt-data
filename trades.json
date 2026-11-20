@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20 08:31",
+ "updated": "2026-11-20 08:46",
  "live_since": "2026-11-01",
- "through": "2026-11-20 08:30",
+ "through": "2026-11-20 08:45",
  "stats": {
   "closed": 19,
   "sumR": 7.03,
@@ -214,7 +214,7 @@
    "entry": 65403.25,
    "stop": 66315.67000000001,
    "R": 1.81,
-   "why": "Trailing stop \u00b7 provisional",
+   "why": "Trailing stop",
    "ver": "v6",
    "slot": 2
   },
@@ -240,7 +240,7 @@
    "entry": 62731.7,
    "stop": 63539.96268339516,
    "R": -1.05,
-   "why": "SL \u00b7 provisional",
+   "why": "SL",
    "ver": "v6",
    "slot": 1
   },
