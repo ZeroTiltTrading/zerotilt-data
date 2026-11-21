@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21 10:01",
+ "updated": "2026-11-21 10:15",
  "live_since": "2026-11-01",
- "through": "2026-11-21 10:00",
+ "through": "2026-11-21 10:15",
  "stats": {
   "closed": 20,
   "sumR": 11.0,
@@ -236,11 +236,11 @@
    "setup": "Structure",
    "dir": "Short",
    "entry_time": "2026-11-18 15:30",
-   "exit_time": "2026-11-20 21:36",
+   "exit_time": "2026-11-20 21:34",
    "entry": 0.9925,
    "stop": 1.0102600000000002,
    "R": 3.97,
-   "why": "Target \u00b7 provisional",
+   "why": "Target",
    "ver": "v6",
    "slot": 2
   },
