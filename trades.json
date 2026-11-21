@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-21 14:45",
+ "updated": "2026-11-21 15:00",
  "live_since": "2026-11-01",
- "through": "2026-11-21 14:45",
+ "through": "2026-11-21 15:00",
  "stats": {
-  "closed": 22,
-  "sumR": 12.44,
+  "closed": 23,
+  "sumR": 12.4,
   "wins": 10,
-  "running": 1
+  "running": 0
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -292,6 +292,19 @@
    "entry": 1654.33,
    "stop": 1695.1138076138443,
    "R": -0.03,
+   "why": "Partial profit + SL \u00b7 provisional",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
+   "coin": "XRP",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-20 17:00",
+   "exit_time": "2026-11-21 14:50",
+   "entry": 0.9099,
+   "stop": 0.9315734729879596,
+   "R": -0.04,
    "why": "Partial profit + SL \u00b7 provisional",
    "ver": "v6",
    "slot": 1
