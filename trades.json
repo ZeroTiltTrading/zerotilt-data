@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22 10:01",
+ "updated": "2026-11-22 10:15",
  "live_since": "2026-11-01",
- "through": "2026-11-22 10:00",
+ "through": "2026-11-22 10:15",
  "stats": {
   "closed": 23,
   "sumR": 12.4,
@@ -279,7 +279,7 @@
    "entry": 59445.1,
    "stop": 60591.434203211706,
    "R": 1.47,
-   "why": "Partial profit + SL \u00b7 provisional",
+   "why": "Partial profit + SL",
    "ver": "v6",
    "slot": 1
   },
@@ -292,7 +292,7 @@
    "entry": 1654.33,
    "stop": 1695.1138076138443,
    "R": -0.03,
-   "why": "Partial profit + SL \u00b7 provisional",
+   "why": "Partial profit + SL",
    "ver": "v6",
    "slot": 1
   },
@@ -301,11 +301,11 @@
    "setup": "Breakout",
    "dir": "Short",
    "entry_time": "2026-11-20 17:00",
-   "exit_time": "2026-11-21 14:50",
+   "exit_time": "2026-11-21 14:51",
    "entry": 0.9099,
    "stop": 0.9315734729879596,
    "R": -0.04,
-   "why": "Partial profit + SL \u00b7 provisional",
+   "why": "Partial profit + SL",
    "ver": "v6",
    "slot": 1
   }
