@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23 14:00",
+ "updated": "2026-11-23 15:00",
  "live_since": "2026-11-01",
- "through": "2026-11-23 14:00",
+ "through": "2026-11-23 15:00",
  "stats": {
-  "closed": 25,
-  "sumR": 11.19,
+  "closed": 26,
+  "sumR": 10.17,
   "wins": 10,
-  "running": 1
+  "running": 0
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -319,6 +319,19 @@
    "stop": 62898.240000000005,
    "R": -0.14,
    "why": "No progress 24h \u00b7 provisional",
+   "ver": "v6",
+   "slot": 2
+  },
+  {
+   "coin": "ETH",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-22 13:17",
+   "exit_time": "2026-11-23 14:57",
+   "entry": 1723.5349999999999,
+   "stop": 1779.137,
+   "R": -1.02,
+   "why": "SL \u00b7 provisional",
    "ver": "v6",
    "slot": 2
   },
