@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24 08:01",
+ "updated": "2026-11-24 08:46",
  "live_since": "2026-11-01",
- "through": "2026-11-24 08:00",
+ "through": "2026-11-24 08:45",
  "stats": {
   "closed": 26,
-  "sumR": 10.17,
+  "sumR": 9.29,
   "wins": 10,
   "running": 0
  },
@@ -314,11 +314,11 @@
    "setup": "Structure",
    "dir": "Short",
    "entry_time": "2026-11-22 10:56",
-   "exit_time": "2026-11-23 10:56",
+   "exit_time": "2026-11-23 14:57",
    "entry": 61201.2,
    "stop": 62898.240000000005,
-   "R": -0.14,
-   "why": "No progress 24h \u00b7 provisional",
+   "R": -1.02,
+   "why": "SL \u00b7 provisional",
    "ver": "v6",
    "slot": 2
   },
