@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24 08:46",
+ "updated": "2026-11-24 09:01",
  "live_since": "2026-11-01",
- "through": "2026-11-24 08:45",
+ "through": "2026-11-24 09:00",
  "stats": {
   "closed": 26,
   "sumR": 9.29,
@@ -318,7 +318,7 @@
    "entry": 61201.2,
    "stop": 62898.240000000005,
    "R": -1.02,
-   "why": "SL \u00b7 provisional",
+   "why": "SL",
    "ver": "v6",
    "slot": 2
   },
@@ -331,7 +331,7 @@
    "entry": 1723.5349999999999,
    "stop": 1779.137,
    "R": -1.02,
-   "why": "SL \u00b7 provisional",
+   "why": "SL",
    "ver": "v6",
    "slot": 2
   },
@@ -344,7 +344,7 @@
    "entry": 0.9315,
    "stop": 0.94002,
    "R": -1.07,
-   "why": "SL \u00b7 provisional",
+   "why": "SL",
    "ver": "v6",
    "slot": 2
   }
