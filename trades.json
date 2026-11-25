@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25 15:00",
+ "updated": "2026-11-25 15:15",
  "live_since": "2026-11-01",
- "through": "2026-11-25 15:00",
+ "through": "2026-11-25 15:15",
  "stats": {
   "closed": 26,
   "sumR": 9.29,
   "wins": 10,
-  "running": 0
+  "running": 1
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -115,19 +115,6 @@
    "slot": 1
   },
   {
-   "coin": "BTC",
-   "setup": "Breakout",
-   "dir": "Short",
-   "entry_time": "2026-11-10 17:00",
-   "exit_time": "2026-11-11 09:08",
-   "entry": 73180.1,
-   "stop": 74127.2054338109,
-   "R": -1.05,
-   "why": "SL",
-   "ver": "v6",
-   "slot": 1
-  },
-  {
    "coin": "ETH",
    "setup": "Breakout",
    "dir": "Short",
@@ -136,6 +123,19 @@
    "entry": 2022.36,
    "stop": 2063.063149059078,
    "R": -1.03,
+   "why": "SL",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
+   "coin": "BTC",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-10 17:00",
+   "exit_time": "2026-11-11 09:08",
+   "entry": 73180.1,
+   "stop": 74127.2054338109,
+   "R": -1.05,
    "why": "SL",
    "ver": "v6",
    "slot": 1
@@ -167,13 +167,13 @@
    "slot": 1
   },
   {
-   "coin": "ETH",
+   "coin": "XRP",
    "setup": "Breakout",
    "dir": "Short",
    "entry_time": "2026-11-13 05:00",
-   "exit_time": "2026-11-13 14:30",
-   "entry": 1933.68,
-   "stop": 1967.0554317122806,
+   "exit_time": "2026-11-13 07:23",
+   "entry": 1.0055,
+   "stop": 1.0233105679769086,
    "R": -1.03,
    "why": "SL",
    "ver": "v6",
@@ -193,13 +193,13 @@
    "slot": 1
   },
   {
-   "coin": "XRP",
+   "coin": "ETH",
    "setup": "Breakout",
    "dir": "Short",
    "entry_time": "2026-11-13 05:00",
-   "exit_time": "2026-11-13 07:23",
-   "entry": 1.0055,
-   "stop": 1.0233105679769086,
+   "exit_time": "2026-11-13 14:30",
+   "entry": 1933.68,
+   "stop": 1967.0554317122806,
    "R": -1.03,
    "why": "SL",
    "ver": "v6",
