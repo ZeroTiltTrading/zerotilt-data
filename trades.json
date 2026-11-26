@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-26 06:01",
+ "updated": "2026-11-26 06:46",
  "live_since": "2026-11-01",
- "through": "2026-11-26 06:00",
+ "through": "2026-11-26 06:45",
  "stats": {
-  "closed": 27,
-  "sumR": 8.25,
+  "closed": 28,
+  "sumR": 7.21,
   "wins": 10,
-  "running": 2
+  "running": 1
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -360,6 +360,19 @@
    "why": "SL \u00b7 provisional",
    "ver": "v6",
    "slot": 1
+  },
+  {
+   "coin": "XRP",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-26 01:16",
+   "exit_time": "2026-11-26 06:34",
+   "entry": 0.9476,
+   "stop": 0.96356,
+   "R": -1.04,
+   "why": "SL \u00b7 provisional",
+   "ver": "v6",
+   "slot": 2
   }
  ]
 }
