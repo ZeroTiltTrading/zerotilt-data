@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27 09:01",
+ "updated": "2026-11-27 09:16",
  "live_since": "2026-11-01",
- "through": "2026-11-27 09:00",
+ "through": "2026-11-27 09:15",
  "stats": {
-  "closed": 32,
-  "sumR": 5.83,
-  "wins": 12,
+  "closed": 31,
+  "sumR": 5.39,
+  "wins": 11,
   "running": 0
  },
  "v6_since": "2026-11-06 07:44",
@@ -392,7 +392,7 @@
    "setup": "Structure",
    "dir": "Short",
    "entry_time": "2026-11-26 01:16",
-   "exit_time": "2026-11-26 06:35",
+   "exit_time": "2026-11-27 03:26",
    "entry": 0.9473499999999999,
    "stop": 0.96361,
    "R": -1.03,
@@ -410,19 +410,6 @@
    "stop": 65187.380000000005,
    "R": 0.25,
    "why": "No progress 24h \u00b7 provisional",
-   "ver": "v6",
-   "slot": 2
-  },
-  {
-   "coin": "XRP",
-   "setup": "Structure",
-   "dir": "Short",
-   "entry_time": "2026-11-26 13:01",
-   "exit_time": "2026-11-27 03:26",
-   "entry": 0.9557,
-   "stop": 0.96542,
-   "R": 0.44,
-   "why": "Partial profit + SL \u00b7 provisional",
    "ver": "v6",
    "slot": 2
   }
