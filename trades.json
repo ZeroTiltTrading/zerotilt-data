@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27 08:01",
+ "updated": "2026-11-27 08:46",
  "live_since": "2026-11-01",
- "through": "2026-11-27 08:00",
+ "through": "2026-11-27 08:45",
  "stats": {
   "closed": 32,
-  "sumR": 5.81,
+  "sumR": 5.83,
   "wins": 12,
   "running": 0
  },
@@ -404,11 +404,11 @@
    "coin": "BTC",
    "setup": "Structure",
    "dir": "Short",
-   "entry_time": "2026-11-26 01:16",
-   "exit_time": "2026-11-27 01:16",
+   "entry_time": "2026-11-26 01:17",
+   "exit_time": "2026-11-27 01:17",
    "entry": 61499.9,
    "stop": 65187.380000000005,
-   "R": 0.23,
+   "R": 0.25,
    "why": "No progress 24h \u00b7 provisional",
    "ver": "v6",
    "slot": 2
