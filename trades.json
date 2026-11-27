@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-27 01:01",
+ "updated": "2026-11-27 01:31",
  "live_since": "2026-11-01",
- "through": "2026-11-27 01:01",
+ "through": "2026-11-27 01:30",
  "stats": {
-  "closed": 30,
-  "sumR": 5.14,
-  "wins": 10,
-  "running": 2
+  "closed": 31,
+  "sumR": 5.37,
+  "wins": 11,
+  "running": 1
  },
  "v6_since": "2026-11-06 07:44",
  "trades": [
@@ -167,6 +167,19 @@
    "slot": 1
   },
   {
+   "coin": "ETH",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-13 05:00",
+   "exit_time": "2026-11-13 14:30",
+   "entry": 1933.68,
+   "stop": 1967.0554317122806,
+   "R": -1.03,
+   "why": "SL",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
    "coin": "BTC",
    "setup": "Breakout",
    "dir": "Short",
@@ -187,19 +200,6 @@
    "exit_time": "2026-11-13 07:23",
    "entry": 1.0055,
    "stop": 1.0233105679769086,
-   "R": -1.03,
-   "why": "SL",
-   "ver": "v6",
-   "slot": 1
-  },
-  {
-   "coin": "ETH",
-   "setup": "Breakout",
-   "dir": "Short",
-   "entry_time": "2026-11-13 05:00",
-   "exit_time": "2026-11-13 14:30",
-   "entry": 1933.68,
-   "stop": 1967.0554317122806,
    "R": -1.03,
    "why": "SL",
    "ver": "v6",
@@ -349,19 +349,6 @@
    "slot": 2
   },
   {
-   "coin": "XRP",
-   "setup": "Breakout",
-   "dir": "Short",
-   "entry_time": "2026-11-25 15:00",
-   "exit_time": "2026-11-25 16:01",
-   "entry": 0.8941,
-   "stop": 0.9086599946789262,
-   "R": -1.04,
-   "why": "SL",
-   "ver": "v6",
-   "slot": 1
-  },
-  {
    "coin": "BTC",
    "setup": "Breakout",
    "dir": "Short",
@@ -389,6 +376,19 @@
   },
   {
    "coin": "XRP",
+   "setup": "Breakout",
+   "dir": "Short",
+   "entry_time": "2026-11-25 15:00",
+   "exit_time": "2026-11-25 16:01",
+   "entry": 0.8941,
+   "stop": 0.9086599946789262,
+   "R": -1.04,
+   "why": "SL",
+   "ver": "v6",
+   "slot": 1
+  },
+  {
+   "coin": "XRP",
    "setup": "Structure",
    "dir": "Short",
    "entry_time": "2026-11-26 01:16",
@@ -397,6 +397,19 @@
    "stop": 0.96361,
    "R": -1.03,
    "why": "SL \u00b7 provisional",
+   "ver": "v6",
+   "slot": 2
+  },
+  {
+   "coin": "BTC",
+   "setup": "Structure",
+   "dir": "Short",
+   "entry_time": "2026-11-26 01:16",
+   "exit_time": "2026-11-27 01:16",
+   "entry": 61499.9,
+   "stop": 65187.380000000005,
+   "R": 0.23,
+   "why": "No progress 24h \u00b7 provisional",
    "ver": "v6",
    "slot": 2
   }
